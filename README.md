@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Usage : 
 
-Now Before using the bash script I suggest you to update our Wordlist (Plugin-names.txt).
+Now Before using the bash script I suggest you to update our Wordlist (`Plugin-names.txt`).
 To do this : 
 
 ```python
